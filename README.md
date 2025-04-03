@@ -1,7 +1,7 @@
-#Energy Consumption Visualisation
+# Energy Consumption Visualisation
 
-###Tech Stack:
-Frontend - React + Typescript + TailwindCSS
-Backend - Python
-CI/CD - Docker
-Cloud - AWS
+### Tech Stack:
+- Frontend - React + Typescript + TailwindCSS 
+- Backend - Python
+- CI/CD - Docker
+- Cloud - AWS
