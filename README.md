@@ -2,6 +2,6 @@
 
 ### Tech Stack:
 - Frontend - React + Typescript + TailwindCSS 
-- Backend - Python
+- Backend - Python FastAPI
 - CI/CD - Docker
 - Cloud - AWS
